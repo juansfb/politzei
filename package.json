@@ -1,0 +1,16 @@
+{
+  "name": "botijo",
+  "version": "1.0.0",
+  "description": "POLITZEI PUM LOOTBANEAO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kairoz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "enmap": "^5.4.0",
+    "eslint": "^7.5.0"
+  }
+}
